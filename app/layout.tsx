@@ -50,7 +50,7 @@ export default function RootLayout({
         />
         <meta
           property="og:image"
-          content="https://raw.githubusercontent.com/meraeugene/revoke-scan/refs/heads/main/public/thumbnail2.png"
+          content="https://raw.githubusercontent.com/tatsuyahotso/revoke-scan/refs/heads/main/public/thumbnail2.png"
         />
 
         <meta property="twitter:card" content="summary_large_image" />
@@ -65,7 +65,7 @@ export default function RootLayout({
         />
         <meta
           property="twitter:image"
-          content="https://raw.githubusercontent.com/meraeugene/revoke-scan/refs/heads/main/public/thumbnail2.png"
+          content="https://raw.githubusercontent.com/tatsuyahotso/revoke-scan/refs/heads/main/public/thumbnail2.png"
         />
       </head>
       <body className={`${roboto.variable} antialiased`}>{children}</body>
